@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "type": "Men",
+    "category": "Sauna Suits",
+    "title": "Morrison Sauna Suit 2.0",
+    "color": "Black",
+    "price": "103.45",
+    "size": "L",
+    "description": "Innovated over countless hours for maximum heat retention to aid weight loss, reduce injury risk and increase muscular hypertrophy.",
+    "images": [
+      "https://boxraw.com/cdn/shop/files/BOXRAW_Mens_Saunasuit_Charcoal-1_x1440.jpg?v=1702561984",
+      "https://boxraw.com/cdn/shop/files/BOXRAW_Mens_Saunasuit_Charcoal-2_x1440.jpg?v=1703261463",
+      "https://boxraw.com/cdn/shop/files/BOXRAW_Mens_Saunasuit_Charcoal-3_x1440.jpg?v=1703261463",
+      "https://boxraw.com/cdn/shop/files/BOXRAW_Mens_Saunasuit_Charcoal-4_x1440.jpg?v=1703261463"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "Women",
+    "category": "T-shirts",
+    "title": "Wolfe T-Shirt",
+    "color": "Black",
+    "price": "80.32",
+    "size": "S",
+    "description": "For the Woman who knows what she wants and where she's going. The Women's Strike Logo T-shirt is a seamless blend of comfort and style. Cut for a flattering slim fit.",
+    "images": [
+      "https://boxraw.com/cdn/shop/products/BOXRAW_Womens_Strike_Tee-3_cfd215d1-f8ed-4391-a967-914b942a7f4b_x1440.jpg?v=1668799316",
+      "https://boxraw.com/cdn/shop/products/BOXRAW_Womens_Strike_Tee-1_b8ca4b72-2599-4a2f-8557-3959e064d778_x1440.jpg?v=1668799316",
+      "https://boxraw.com/cdn/shop/products/BOXRAW_Womens_Strike_Tee-2_5a411676-5807-452b-91ff-f2e7047c3e2d_x1440.jpg?v=1668799316",
+      "https://boxraw.com/cdn/shop/products/BOXRAW_Womens_Strike_Tee-6_b667a228-e2a4-49f3-8b62-91e186579963_x1440.jpg?v=1668799316"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "Equipment",
+    "category": "Knuckle Guards",
+    "title": "Hearn's Knuckle Guards",
+    "color": "Black",
+    "price": "75.44",
+    "size": "M",
+    "description": "No more damaged knuckles due to incorrect hand-wrapping or poor quality gloves. Our patent-pending Knuckle Guards are individual to the left and right hand to provide enhanced protection to the inside knuckles. Attach to any 3m hand wrap by simply looping both ends together, then slide fingers through their designated channels which allow the wrap to be pulled back to compress the knuckles as desired. Simply then proceed to secure your wrist, hand and knuckles in a wrapping motion.",
+    "images": [
+      "https://boxraw.com/cdn/shop/products/BOXRAW_Knuckle_Guard_4_b81129be-1da5-41b5-ae69-e01135a0f912_x1440.jpg?v=1668796959",
+      "https://boxraw.com/cdn/shop/products/BOXRAW_Knuckle_Guard_7_2e153283-6ff8-4fc4-a9fb-9fb934e408b7_x1440.jpg?v=1674671724",
+      "https://boxraw.com/cdn/shop/products/BOXRAW_Knuckle_Guard_1_33be62f5-baf1-4588-b20c-45602e100750_x1440.jpg?v=1674671724",
+      "https://boxraw.com/cdn/shop/products/BOXRAW_Knuckle_Guard_3_fb85568c-ba48-47cd-bbdb-c242706b41d9_x1440.jpg?v=1674671724"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "Men",
+    "category": "Bottoms",
+    "title": "McCallum Cargo Pants",
+    "color": "Black",
+    "price": "124.45",
+    "size": "L",
+    "description": "Designed for the demands of being on duty, the Dundee Cargo pants are constructed for a lightweight feel and relaxed fit. Cargo style pockets, zip pockets and a hidden waistband pocket provide plenty of space for essentials. Finished with our icon Strike logo flashed across the leg and engraved on the button detailing.",
+    "images": [
+      "https://boxraw.com/cdn/shop/products/BOXRAW_Dundee_Cargopants-1_aa1ae591-e9e3-4286-80d1-35c0d1efceba_x1440.jpg?v=1668797838",
+      "https://boxraw.com/cdn/shop/products/BOXRAW_Dundee_Cargopants-2_33c057f8-22fd-4c22-98c4-63396b80897b_x1440.jpg?v=1674670477",
+      "https://boxraw.com/cdn/shop/products/BOXRAW_Dundee_Cargopants-2_33c057f8-22fd-4c22-98c4-63396b80897b_x1440.jpg?v=1674670477",
+      "https://boxraw.com/cdn/shop/products/BOXRAW_Dundee_Cargopants-4_14a5a0dc-2e7a-4327-a99b-a639e7b540d6_x1440.jpg?v=1682334548"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "Women",
+    "category": "Hoodie",
+    "title": "Wolfe Hoodie",
+    "color": "Black",
+    "price": "99.37",
+    "size": "S",
+    "description": "Inspired by the roots of MSG, the East Street Hoodie pays homage to the origins of the Mecca of Boxing. Made from a liveable and durable cotton blend, the sweatshirt offers a relaxed fit that will live with and for you. An applique Logo features on the chest which is balanced with our signature metal plate on the neck and embroidered upside-down Strike logos on the sleeves which become apparent as your fists are raised. A secret zipped pocket sits inside the kangaroo pouch offering the ultimate practicality.",
+    "images": [
+      "https://boxraw.com/cdn/shop/files/BOXRAW_Womans_Eaststreet_Hoodie-1_x1440.jpg?v=1686744681",
+      "https://boxraw.com/cdn/shop/files/BOXRAW_Womans_Eaststreet_Hoodie-2_x1440.jpg?v=1686744763",
+      "https://boxraw.com/cdn/shop/files/BOXRAW_Womans_Eaststreet_Hoodie-3_x1440.jpg?v=1686744763",
+      "https://boxraw.com/cdn/shop/files/BOXRAW_Womans_Eaststreet_Hoodie-4_x1440.jpg?v=1686744763"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "Equipment",
+    "category": "Handwraps",
+    "title": "Tyson Handwraps",
+    "color": "Black",
+    "price": "99.37",
+    "size": "M",
+    "description": "Made from a supple stretch cotton blend, the 4.5m BOXRAW Hand Wraps feature a patent pending hook and loop closure on the thumb loop saving you time as you wrap or unwrap your hands. The reinforced rubberised wrist strap gives added support while the custom-developed fabric sits soft but firm to the skin, allowing for the perfect amount of variance in hand and knuckle positioning. The choice of World Champions comes complete with a wash and carry bag.",
+    "images": [
+      "https://boxraw.com/cdn/shop/products/BOXRAW_HandWraps_V3_Black-1_9e0fa5f5-3f77-4c32-8d00-190ede911775_x1440.jpg?v=1668794257",
+      "https://boxraw.com/cdn/shop/products/BOXRAW_HandWraps_V3_Black-2_23384cd3-55f6-4856-b6ce-d60ac76dff6a_x1440.jpg?v=1668794257",
+      "https://boxraw.com/cdn/shop/products/BOXRAW_HandWraps_V3_Black-3_a598ea12-f922-46d6-acb8-e2cd903e23dd_x1440.jpg?v=1668794257",
+      "https://boxraw.com/cdn/shop/products/BOXRAW_HandWraps_V3_Black-7_90b833fc-02de-4203-a8f0-7cd114dca4d1_x1440.jpg?v=1668794257"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "Men",
+    "category": "Shorts",
+    "title": "Cotto Short's",
+    "color": "Black",
+    "price": "59.74",
+    "size": "XL",
+    "description": "Engineered for performance, the Valdes Shorts are constructed from a complex SMRT-TEC weave that provides a cooling and sweat wicking effect when training. The adjustable elasticated waistband supports a free flowing fit that moves with you through every pivot, angle turn and strike.",
+    "images": [
+      "https://boxraw.com/cdn/shop/files/BOXRAW_Mens_Valdesshorts_Black-1_x1440.jpg?v=1703176942",
+      "https://boxraw.com/cdn/shop/files/BOXRAW_Mens_Valdesshorts_Black-3_x1440.jpg?v=1703176938",
+      "https://boxraw.com/cdn/shop/files/BOXRAW_Mens_Valdesshorts_Black-5_x1440.jpg?v=1703176943",
+      "https://boxraw.com/cdn/shop/files/BOXRAW_Mens_Valdesshorts_Black-6_x1440.jpg?v=1703176939"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "Women",
+    "category": "Jackets",
+    "title": "Baumgardner Jacket",
+    "color": "Black",
+    "price": "59.74",
+    "size": "M",
+    "description": "Bringing retro vibes, the Marshall Jacket offers layered shell protection with a mesh lining. Featuring a stand up collar, elasticated cuffs, inside and side zipped pockets. The cropped fit forms a flattering silhouette, complemented by striking details throughout.",
+    "images": [
+      "https://boxraw.com/cdn/shop/products/BOXRAW_Marshall_Tracksuit_Black-1_c31b8f68-daa2-40ce-a5fb-db7e25b918d7_x1440.jpg?v=1668795680",
+      "https://boxraw.com/cdn/shop/products/BOXRAW_Marshall_Tracksuit_Black-2_df920b87-0c4a-4452-8535-6154c71e4559_x1440.jpg?v=1668795680",
+      "https://boxraw.com/cdn/shop/products/BOXRAW_Marshall_Tracksuit_Black-3_8dea8c93-0f9c-4628-bc4d-5dd39909bcb1_x1440.jpg?v=1668795680",
+      "https://boxraw.com/cdn/shop/products/BOXRAW_Marshall_Tracksuit_Black-5_3ddb4cce-494b-46a3-98fa-78167df88b14_x1440.jpg?v=1668795680"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "Equipment",
+    "category": "Handwraps",
+    "title": "Alvarez Handwraps",
+    "color": "White",
+    "price": "34.19",
+    "size": "M",
+    "description": "Made from a supple stretch cotton blend, the 4.5m BOXRAW Hand Wraps feature a patent pending hook and loop closure on the thumb loop saving you time as you wrap or unwrap your hands. The reinforced rubberised wrist strap gives added support while the custom-developed fabric sits soft but firm to the skin, allowing for the perfect amount of variance in hand and knuckle positioning. The choice of World Champions comes complete with a wash and carry bag.",
+    "images": [
+      "https://boxraw.com/cdn/shop/products/BOXRAW_HandWraps_V3_White-1_00576902-98d3-4bee-a74a-edbf7142c01f_x1440.jpg?v=1668794249",
+      "https://boxraw.com/cdn/shop/products/BOXRAW_HandWraps_V3_White-2_a8bc5682-b982-4a9b-a7d2-619bfcd38bcf_x1440.jpg?v=1668794249",
+      "https://boxraw.com/cdn/shop/products/BOXRAW_HandWraps_V3_White-5_ef2fdac3-9d32-4138-aeb5-93b3d0cdcd8a_x1440.jpg?v=1668794249",
+      "https://boxraw.com/cdn/shop/products/BOXRAW_HandWraps_V3_White-6_a6da6ac9-bf0f-44f8-b466-be1d8afd8b35_x1440.jpg?v=1668794249"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "Men",
+    "category": "Tanks",
+    "title": "Dempsey Tank",
+    "color": "White",
+    "price": "76.29",
+    "size": "M",
+    "description": "Made from a proprietary, custom developed SMRT-TEC fabric that took 2 years to engineer, the Langford Tank offers a relentless cooling effect while you're in the trenches. The lightweight fabric features laser cut perforations to help keep you ventilated and free while it matters most. Reflective detailing throughout make the Langford the ultimate training companion in any environment, as tested and verified by boxing's elite.",
+    "images": [
+      "https://boxraw.com/cdn/shop/products/BOXRAW_Langford_Tank_White--1_e67d07ae-f020-436b-99af-4522a43e02ec_x1440.jpg?v=1668794926",
+      "https://boxraw.com/cdn/shop/products/BOXRAW_Langford_Tank_White--2_f9024062-8b7d-4970-b35a-4c4ba71ae61d_x1440.jpg?v=1668794926",
+      "https://boxraw.com/cdn/shop/products/BOXRAW_Langford_Tank_White--3_0322c8dd-9235-43a7-8f64-5ffa45ff6118_x1440.jpg?v=1668794926",
+      "https://boxraw.com/cdn/shop/products/BOXRAW_Langford_Tank_White--5_c19feacb-d9c5-4e49-94f3-a80264d280b1_x1440.jpg?v=1668794926"
+    ]
+  }
+]
